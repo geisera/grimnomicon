@@ -1,11 +1,11 @@
 <script setup>
-  import HelloWorld from './components/HelloWorld.vue'
+  import Banner from './components/Banner.vue'
   import Navbar from './components/Navbar.vue'
 </script>
 
 <template>
   <Navbar />
-  <HelloWorld msg="Grimnomicon" />
+  <Banner msg="Grimnomicon" />
 </template>
 
 <style scoped>
