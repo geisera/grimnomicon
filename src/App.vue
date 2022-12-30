@@ -5,7 +5,7 @@
 
 <template>
     <Navbar />
-    <Banner msg="Grimnomicon" />
+    <Banner class="banner" msg="Grimnomicon" />
 </template>
 
 <style scoped>
