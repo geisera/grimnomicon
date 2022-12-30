@@ -4,10 +4,8 @@
 </script>
 
 <template>
-  <Navbar />
-  <div class="banner">
+    <Navbar />
     <Banner msg="Grimnomicon" />
-  </div>
 </template>
 
 <style scoped>
