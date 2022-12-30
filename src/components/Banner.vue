@@ -8,7 +8,7 @@ defineProps({
 </script>
 
 <template>
-  <h1>{{ msg }}</h1>
+  <h1 class="banner">{{ msg }}</h1>
 </template>
 
 <style scoped>
