@@ -63,6 +63,7 @@ button:focus-visible {
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
+  text-align: center;
 }
 .card {
   padding: 2em;
@@ -72,7 +73,6 @@ button:focus-visible {
   max-width: 1280px;
   margin: 0 auto;
   padding: 2rem;
-  /* text-align: center; */
 }
 
 @media (prefers-color-scheme: light) {
